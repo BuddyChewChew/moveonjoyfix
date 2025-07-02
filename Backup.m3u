@@ -18,7 +18,7 @@ https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KRCG) MO
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KTVO) MO
+#EXTINF:-1 group-title="Local TV" tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KTVO) MO
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
 #EXTINF:-1 group-title="Local TV" tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KOMU) MO
