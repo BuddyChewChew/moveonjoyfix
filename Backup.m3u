@@ -146,7 +146,7 @@ http://143.244.60.30/BET_Jams/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.Soul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="MoveOnJoy+", BET SOUL 1
 http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BETSoul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true", BET Soul 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BETSoul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true", BET SOUL 2
 http://143.244.60.30/BET_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="BIG TEN NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="MoveOnJoy+", BIG TEN NETWORK 1
@@ -159,7 +159,7 @@ http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG", BLOOMBERG 2
 http://143.244.60.30/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang", BOOMERANG 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang", BOOMERANG
 http://143.244.60.30/BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce", BOUNCE 1
@@ -197,6 +197,9 @@ http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York, .NY.us" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="MoveOnJoy+", CBS NEWS
 http://fl1.moveonjoy.com/CBS_News/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York, .NY.us" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="MoveOnJoy+", CBS NEWS
+http://143.244.60.30/CBS_News/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="MoveOnJoy+", CBS SPORTS NETWORK 1
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
