@@ -304,11 +304,11 @@ http://143.244.60.30/FUSE/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", (OFFLINE)
 http://cord-cutter.net:8080/hq3y4G/234247/46701
 
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Networks.East.Coast.us" tvg-logo="" tvg-name="FX", FX
+http://143.244.60.30/FX/index.m3u8
+
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX", FX
 http://cord-cutter.net:8080/bn80NG/909467/46690
-
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX", ? FX
-http://143.244.60.30/FX/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-name="FX (SP/EN)", FX (SP/EN)
 https://streamer1.nexgen.bz/FX/index.m3u8
