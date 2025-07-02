@@ -600,13 +600,13 @@ http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC", TLC
 http://143.244.60.30/TLC/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT", TNT (East)1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT", TNT 1
 http://143.244.60.30/TNT/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT 2
 https://streamer1.nexgen.bz/TNT/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT (East)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT 3
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", ?TNT (WEST)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tntwest.us.m3u8
@@ -669,6 +669,28 @@ http://143.244.60.30/WGN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network", YES NETWORK
 http://143.244.60.30/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel", OUTDOOR CHANNEL
+http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel", PURSUIT CHANNEL
+http://143.244.60.30/Pursuit_Channel/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Sportsman.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel", SPORTSMAN CHANNEL
+http://143.244.60.30/SPORTSMAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK
+http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
+https://30a-tv.com/darcizzle.m3u8
+# --------- (PLEX)
+#EXTINF:-1 group-title="MoveOnJoy+" channel-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-chno="" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png", Game & Fish TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
+# --------- (STIRR)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png", HUNT FISH TV
+https://jmp2.uk/str-5747.m3u8
+
 
 # -----------24/7--------------------
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 PROGRAMS ]
@@ -808,57 +830,11 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Connecticut" Norwalk CT)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 
-# ----------- TEMP -----------
-#EXTINF:-1 group-title="TEMP" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ TEMP ]
-https://jmp2.uk/str-5747.m3u8
-# ----------- TEMP -----------
-
-#EXTINF:-1 group-title="TEMP" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel", OUTDOOR CHANNEL
-http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="TEMP" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel", PURSUIT CHANNEL
-http://143.244.60.30/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title="TEMP" tvg-id="Sportsman.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel", SPORTSMAN CHANNEL
-http://143.244.60.30/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="TEMP" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK 1
-http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title="TEMP" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK 2
-http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title="TEMP" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK 3
-http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title="TEMP" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
-https://30a-tv.com/darcizzle.m3u8
-
-# --------- (PLEX)
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-chno="" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png" group-title="TEMP", Game & Fish TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
-
-# --------- (STIRR)
-#EXTINF:-1 group-title="TEMP" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png", HUNT FISH TV
-https://jmp2.uk/str-5747.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# -------------------------------
+# -------------EVENTS-----------
 #EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/str-5747.m3u8
+# -------------EVENTS-----------
 
-# -------------EVENTS------------------
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 1", PPV 1
 http://143.244.60.30/PPV_1/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 2", PPV 2
