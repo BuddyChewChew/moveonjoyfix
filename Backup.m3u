@@ -196,10 +196,10 @@ https://fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (WEST) You ave to timeshift it to west coast time zone.
 http://143.244.60.30/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="COMET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" group-title="MoveOnJoy+", COMET
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comet.TV.us" tvg-name="COMET 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png", COMET 1
 http://143.244.60.30/COMET/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true", COMET 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comet.TV.us"  tvg-name="COMET 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true", COMET 2
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING", COOKING CHANNEL
